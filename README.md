@@ -3,6 +3,8 @@
 
 Name: Haisheng
 
+Github Account name: shihai-ops
+
 Link to Assignment on Github: (copy and paste the link to your assignment repo here): https://github.com/CS5008Fall2025/c-practice-shihai-ops
 
 How many hours did it take you to complete this assignment (estimate)? 
