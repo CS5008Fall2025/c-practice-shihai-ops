@@ -18,10 +18,11 @@ Did you use any external resources (you do not have to cite in class material)? 
 
 GeeksforGeeks. 2025. Arrays in C. GeeksforGeeks. Retrieved October 4, 2025 from https://www.geeksforgeeks.org/c/c-arrays/
 
+TutorialsPoint. 2025. C – Pointers. TutorialsPoint. Retrieved October 4, 2025 from https://www.tutorialspoint.com/cprogramming/c_pointers.htm
 
 逊哥带你学计算机. 2024. 2.指针_结构体_动态内在分配_算法时间复杂度 [Video]. Bilibili. Retrieved October 4, 2025 from https://www.bilibili.com/video/BV1tNpbekEht/?p=2
 
-翁恺c语言. 2022. 浙江大学翁恺教你C语言程序设计！C语言基础入门！ [Video]. Bilibili. Retrieved October 10, 2025 from https://www.bilibili.com/video/BV1dr4y1n7vA/
-.
+翁恺c语言. 2022. 浙江大学翁恺教你C语言程序设计！C语言基础入门！ [Video]. Bilibili. Retrieved October 9, 2025 from https://www.bilibili.com/video/BV1dr4y1n7vA/
+
   
 
