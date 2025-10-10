@@ -11,7 +11,7 @@ How many hours did it take you to complete this assignment (estimate)?
 Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
 - one per row, add more if needed
 - I have asked professor Lindsay questions about pointers in C.
-
+Prof. Lindsay, asked questions about pointer. 
 
 Did you use any external resources (you do not have to cite in class material)? (Cite them below)  
 
