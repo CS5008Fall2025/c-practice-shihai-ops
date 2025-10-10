@@ -57,7 +57,7 @@ static void swap(int *a, int *b){
  * 1 3 2 
  * (notice there is a hidden space at the end of the 2 before the \n )
 */
-static void print_array(int *arr, int size)
+void print_array(int *arr, int size)
 {
     for(int i = 0; i < size; i++){
         printf("%d", arr[i]);
@@ -314,14 +314,14 @@ static Polygon* create_triangle(int width, int height){
 /**
  * Prints the point in the format "(x, y) "
 */
-static void print_point(Point *p){
+void print_point(Point *p){
     printf("(%d, %d)", (*p).x, (*p).y);
 }
 
 /**
  * Prints the polygon in the format "(x, y) (x, y) (x, y) \n"
 */
-static void print_polygon(Polygon *p){
+void print_polygon(Polygon *p){
     for(int i = 0; i < (*p).size; i++){
         print_point((*p).points[i]);
         printf(" ");
